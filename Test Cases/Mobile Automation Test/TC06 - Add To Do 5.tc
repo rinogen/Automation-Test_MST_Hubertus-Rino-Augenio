@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC06 - Add To Do 5</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>430fc7c9-266d-4cec-9d30-803b0530484b</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>b60f3e16-d66e-4606-b6e9-52b3fdd4f73a</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>558aa847-5c71-47fa-ae20-67456ff66d1e</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>33911e3f-8021-4c38-a8c1-1dd8c8dab858</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'MST QA Test'</defaultValue>
+      <description></description>
+      <id>b60f3e16-d66e-4606-b6e9-52b3fdd4f73a</id>
+      <masked>false</masked>
+      <name>Name</name>
+   </variable>
+   <variable>
+      <defaultValue>'Other'</defaultValue>
+      <description></description>
+      <id>558aa847-5c71-47fa-ae20-67456ff66d1e</id>
+      <masked>false</masked>
+      <name>Type</name>
+   </variable>
+   <variable>
+      <defaultValue>' Testing'</defaultValue>
+      <description></description>
+      <id>33911e3f-8021-4c38-a8c1-1dd8c8dab858</id>
+      <masked>false</masked>
+      <name>Description</name>
+   </variable>
+</TestCaseEntity>

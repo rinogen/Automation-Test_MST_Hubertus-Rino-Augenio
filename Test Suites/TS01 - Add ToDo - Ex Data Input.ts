@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>TS01 - Add ToDo - Ex Data Input</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>true</rerunFailedTestCasesOnly>
+   <rerunImmediately>false</rerunImmediately>
+   <testSuiteGuid>a5cc3d6e-3c9e-4dfa-86b2-a050c5543b57</testSuiteGuid>
+   <testCaseLink>
+      <guid>67991d08-0ed8-47f9-89aa-6dafd3a76a84</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Mobile Automation Test/TC01-Login</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>d8c8fc44-a83d-45b3-906b-f357156966b8</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Mobile Automation Test/TC02-Add To Do</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>fe0bafc6-39a6-4f43-bcb1-1270c340a07a</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Mobile Automation Test/TC03-Add To Do 2</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>79f05491-d552-4625-9b05-7e1afa4af5d8</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Mobile Automation Test/TC04-Add To Do 3</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>1a1ec3c9-0d85-416b-b092-f00916c4ead0</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <iterationNameVariable>
+         <defaultValue>''</defaultValue>
+         <description></description>
+         <id>8e5d2d91-50b9-4cc8-9a26-9e38f7648925</id>
+         <masked>false</masked>
+         <name>Name</name>
+      </iterationNameVariable>
+      <testCaseId>Test Cases/Mobile Automation Test/TC05-Add To Do 4</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>7a2376ef-80e9-45b2-8988-76a60405a84a</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/Ex Data Input</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>7a2376ef-80e9-45b2-8988-76a60405a84a</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Name</value>
+         <variableId>8e5d2d91-50b9-4cc8-9a26-9e38f7648925</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>7a2376ef-80e9-45b2-8988-76a60405a84a</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Type</value>
+         <variableId>7793bda3-c9dd-4676-877b-88b9f54bd9bf</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>7a2376ef-80e9-45b2-8988-76a60405a84a</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Description</value>
+         <variableId>914cbfa7-c8b6-4637-9c58-31156734aad7</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>0beaac24-229d-41b6-a150-3113632f4cb7</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Mobile Automation Test/TC06 - Add To Do 5</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>b60f3e16-d66e-4606-b6e9-52b3fdd4f73a</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>558aa847-5c71-47fa-ae20-67456ff66d1e</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>33911e3f-8021-4c38-a8c1-1dd8c8dab858</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>057ff518-62cc-4b47-900d-c6e3448ecf23</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Mobile Automation Test/TC07 - Add To Do 6</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>8d6fb947-aa80-4cbb-abf5-3fdf4cd67f2b</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>3337ede8-4e3d-4361-9fc0-c9b4283e2736</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>a55d3847-1ee3-429d-aaac-5ccce8c08e7f</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>
